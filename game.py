@@ -18,7 +18,7 @@ pygame.display.set_caption("Game of Life")
 # Define colors
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
-GREEN = (0, 255, 0)
+GREEN = (0, 200, 0)
 GRAY = (200, 200, 200)
 
 # Initialize grid
