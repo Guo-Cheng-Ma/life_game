@@ -5,7 +5,7 @@ import numpy as np
 pygame.init()
 
 # Set default parameters
-DEFAULT_SIZE = 50
+DEFAULT_SIZE = 75  # Increase the grid size
 DEFAULT_INTERVAL = 200  # milliseconds
 CELL_SIZE = 10  # pixel size of each cell
 
